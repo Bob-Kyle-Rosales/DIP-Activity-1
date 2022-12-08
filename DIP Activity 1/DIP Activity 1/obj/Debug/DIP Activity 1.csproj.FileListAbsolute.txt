@@ -1,0 +1,9 @@
+C:\Users\hy\Documents\Intelligent System\DIP Activity 1\DIP Activity 1\obj\Debug\DIP Activity 1.csproj.AssemblyReference.cache
+C:\Users\hy\Documents\Intelligent System\DIP Activity 1\DIP Activity 1\obj\Debug\DIP_Activity_1.Form1.resources
+C:\Users\hy\Documents\Intelligent System\DIP Activity 1\DIP Activity 1\obj\Debug\DIP_Activity_1.Properties.Resources.resources
+C:\Users\hy\Documents\Intelligent System\DIP Activity 1\DIP Activity 1\obj\Debug\DIP Activity 1.csproj.GenerateResource.cache
+C:\Users\hy\Documents\Intelligent System\DIP Activity 1\DIP Activity 1\obj\Debug\DIP Activity 1.csproj.CoreCompileInputs.cache
+C:\Users\hy\Documents\Intelligent System\DIP Activity 1\DIP Activity 1\bin\Debug\DIP Activity 1.exe
+C:\Users\hy\Documents\Intelligent System\DIP Activity 1\DIP Activity 1\bin\Debug\DIP Activity 1.pdb
+C:\Users\hy\Documents\Intelligent System\DIP Activity 1\DIP Activity 1\obj\Debug\DIP Activity 1.exe
+C:\Users\hy\Documents\Intelligent System\DIP Activity 1\DIP Activity 1\obj\Debug\DIP Activity 1.pdb
